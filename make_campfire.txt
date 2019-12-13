@@ -1,0 +1,23 @@
+Start Campfire
+
+1 Gather wood
+  1.1 Gather kindling
+  1.2 Gather logs
+    1.2.3 Chop wood
+      1.2.3.1 Get Axe
+        1.2.3.1.1 Open Shed
+        1.2.3.1.2 find axe
+      1.2.3.2 Swing Axe
+2 stack wood
+  2.1 choose structure
+    2.1.1 open beer
+    2.1.2 debate with group over what structure should be
+  2.2 create structure
+3 ignite wood
+  3.1 get lighter
+  3.2 flick lighter
+  3.3 ignite kindling
+  3.4 stack kindling under structure
+4 blow air
+  4.1 inhale
+  4.2 blow under fire
