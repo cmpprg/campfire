@@ -22,4 +22,5 @@ Start Campfire
   3.4 stack kindling under structure
 4 blow air
   4.1 inhale
+    4.1.1 contract diaphragm
   4.2 blow under fire
